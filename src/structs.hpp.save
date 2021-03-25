@@ -1,0 +1,9 @@
+#ifndef STRUCTS_HPP
+#define FUNCTIONS_HPP
+
+struct data{
+    bool isd;
+    long long int number;
+    double dnumber;
+    short type;
+};

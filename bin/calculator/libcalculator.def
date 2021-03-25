@@ -1,0 +1,10 @@
+EXPORTS
+    _Z10calculatorNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @1
+    _Z15multiplecheckerRSt6vectorI4dataSaIS0_EE @2
+    _Z7separetRSt6vectorI4dataSaIS0_EEsNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEb @3
+    _ZN9__gnu_cxx12__to_xstringINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEcEET_PFiPT0_jPKS8_PcEjSB_z @4
+    _ZN9__gnu_cxx6__stoaIddcJEEET0_PFT_PKT1_PPS3_DpT2_EPKcS5_PjS9_ @5
+    _ZNSt6vectorI4dataSaIS0_EE19_M_emplace_back_auxIJRKS0_EEEvDpOT_ @6
+    _ZNSt6vectorI4dataSaIS0_EE8_M_eraseEN9__gnu_cxx17__normal_iteratorIPS0_S2_EE @7
+    _get_output_format @8
+    main @9

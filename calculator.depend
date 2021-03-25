@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1590046607 source:c:\users\csger\desktop\programozás\cpp\calculator\main.cpp
+	<iostream>
+	"src/functions.hpp"
+
+1590046574 c:\users\csger\desktop\programozás\cpp\calculator\src\functions.hpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	"structs.hpp"
+
+1589976520 c:\users\csger\desktop\programozás\cpp\calculator\src\structs.hpp
+
+1592650030 source:c:\users\csger\desktop\dev\projects\c++\calculator\main.cpp
+	<iostream>
+	"src/functions.hpp"
+
+1592650310 c:\users\csger\desktop\dev\projects\c++\calculator\src\functions.hpp
+	<vector>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<stdlib.h>
+	<cmath>
+	<cstddef>
+	"structs.hpp"
+
+1592127016 c:\users\csger\desktop\dev\projects\c++\calculator\src\structs.hpp
+
